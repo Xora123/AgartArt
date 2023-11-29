@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 460.81 460.81">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: url(#_ÂÁ_Ï_ÌÌ_È_ËÂÌÚ_7);
+      }
+    </style>
+    <linearGradient id="_ÂÁ_Ï_ÌÌ_È_ËÂÌÚ_7" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 7" x1="-58.8" y1="42.01" x2="468.96" y2="385.8" gradientTransform="translate(230.4 -95.44) rotate(45)" gradientUnits="userSpaceOnUse">
+      <stop offset=".14" stop-color="#fff"/>
+      <stop offset=".34" stop-color="#ecedf5"/>
+      <stop offset=".56" stop-color="#dee0ed"/>
+      <stop offset=".75" stop-color="#d9dceb"/>
+      <stop offset=".92" stop-color="#dbe0ef"/>
+    </linearGradient>
+  </defs>
+  <g id="_ÎÓÈ_1" data-name="—ÎÓÈ_1">
+    <g>
+      <g>
+        <circle class="cls-2" cx="230.41" cy="230.4" r="228.89" transform="translate(-95.44 230.41) rotate(-45)"/>
+        <path class="cls-1" d="m230.41,460.81C103.36,460.81,0,357.45,0,230.4S103.36,0,230.41,0s230.41,103.36,230.41,230.4-103.36,230.41-230.41,230.41Zm0-457.77C105.04,3.04,3.04,105.04,3.04,230.4s101.99,227.36,227.36,227.36,227.36-101.99,227.36-227.36S355.78,3.04,230.41,3.04Z"/>
+      </g>
+      <path d="m162.5,231.38c-8.63,0-16.62,0-24.55,0-6.76,38.79,31.58,84.2,77.96,92.77,48.77,9,97.82-25.21,107.71-74.27,10.61-52.64-26.46-111.68-92.26-113.95,0-8.2,0-16.44,0-26.59-22.83,13.79-44.37,26.8-66.94,40.44,22.48,13.6,43.92,26.57,66.47,40.22v-25.64c25.49-6.34,59.79,20.51,66.63,51.44,8.29,37.51-15.54,74.42-52.29,82.03-37.31,7.73-79.76-17.4-82.72-66.43Z"/>
+    </g>
+  </g>
+</svg>

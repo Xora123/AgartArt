@@ -1,0 +1,31 @@
+.burgerMenu--deskstop{
+    position: absolute;
+    top: 0px;
+    right: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    right: 1rem;
+    top: 1rem;
+}
+
+.burgerMenu__icones {
+    display: block;
+    width: 2.5rem;
+    height: 2.5rem;
+    margin-bottom: 5px;
+    border: none;
+    outline: none;
+    position: relative;
+}
+
+.hamburger {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 2.5rem;
+    height: 2.5rem;
+    border: none;
+    outline: none;
+    cursor: pointer;
+  }

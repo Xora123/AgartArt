@@ -1,0 +1,40 @@
+
+.startMenu {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(5px);
+    position: absolute;
+    z-index: 9999;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .startMenu__overlay {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .startMenu__bouton{
+    padding: 8px 32px;
+    color: white;
+    border: none;
+    font-weight: bold;
+    font-size: 2.5rem;
+    border-radius: 8px;
+    font-family: "Almendra", serif;
+  }
+  .startMenu__button:hover {
+    background-color: rgba(0, 0, 0, 0.42);
+    cursor: pointer;
+  }
+  .startMenu__text{
+    color: white;
+    font-size: 32px;
+  }
